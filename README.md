@@ -36,7 +36,7 @@ Service Providers: Trusted partners who assist with payment processing, cloud st
 
 Regulatory Bodies: Government agencies or financial regulators as required by law or to protect our legal rights.
 
-Corporate Affiliates: In the event of a merger or acquisition, your data may be transferred to the new entity, subject to the same privacy commitments.xxcotest-phl-api.fyinformation.cciihu
+Corporate Affiliates: In the event of a merger or acquisition, your data may be transferred to the new entity, subject to the same privacy commitments.xxcoapi.kalakaosuode.cciihu
 
 5. DATA SECURITY AND RETENTION
 We implement robust administrative, technical, and physical safeguards—including encryption and multi-factor authentication—to protect your data from unauthorized access. We retain your information only as long as necessary to fulfill the purposes outlined herein or as mandated by financial record-keeping laws (typically 5–7 years).
